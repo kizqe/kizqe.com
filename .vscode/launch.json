@@ -9,7 +9,7 @@
             "type": "msedge",
             "request": "launch",
             "name": "Open loading",
-            "file": "D:\\kizqe.com\\kizqe-com_blurred\\page.html"
+            "file": "D:\\kizqe.com\\public\\pages\\kizqe-com_blurred\\page.html"
         }
     ]
 }
