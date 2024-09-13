@@ -1,0 +1,28 @@
+body {
+    /* kizqe.com */
+    background-color: #0a0a0a;
+
+    position: absolute;
+    width: 164px;
+    height: 39px;
+    left: calc(50% - 164px/2);
+    top: calc(50% - 39px/2 - 0.5px);
+
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+    text-align: center;
+
+    color: #ffffff;
+
+    filter: blur(4px);
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    z-index: 0;
+}
